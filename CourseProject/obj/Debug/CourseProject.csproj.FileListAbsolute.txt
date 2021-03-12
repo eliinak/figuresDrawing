@@ -1,0 +1,17 @@
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject!.exe.config
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject!.exe
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject!.pdb
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_.Circle.resources
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_.Scene.resources
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_.Properties.Resources.resources
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_.Rectangle.resources
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_.Square.resources
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_.Triangle.resources
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject!.exe
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject!.pdb
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\bin\Debug\ShapesLibrary.dll
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\bin\Debug\ShapesLibrary.pdb
+C:\Users\pkalenderov\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete

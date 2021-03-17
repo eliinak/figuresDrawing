@@ -1,7 +1,7 @@
 # figuresDrawing
 OOP Project
 
-Desktop application that by creating geometric shapes, calculating their circumference and face, shows the principles of object-oriented programming.
+Desktop application that by creating geometric shapes, calculating their circumference and face, shows the principles of object-oriented programming. It is created in VisualStudio.
 
 1.When we start the project we have the opportunity to open an already created project or to create a new one.
 ![11](https://user-images.githubusercontent.com/79605705/111505319-2eab2180-8751-11eb-9a31-bbb7dc0cc222.png)
